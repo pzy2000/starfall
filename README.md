@@ -6,9 +6,8 @@ https://pzy2000.github.io/starfall/
 
 Contents:
 
-- `index.html` — the full policy page (revision 2026-10-09, matching the
-  in-app first-launch consent popup of builds with the player market and
-  world chat).
+- `index.html` — the full policy page (revision 2026-10-14, matching the
+  in-app first-launch consent popup of builds with the TapSDK 4.10.9 and cloud saves).
 - `privacy/index.html` — redirect to the canonical URL for deep links.
 - `.nojekyll` — skip Jekyll processing.
 
